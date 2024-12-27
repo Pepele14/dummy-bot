@@ -1,0 +1,7 @@
+{
+    "ToolX": {
+      "availableLicenses": 5,
+      "eligibilityRoles": ["developer", "manager"],
+      "assignedLicenses": []
+    }
+  }
